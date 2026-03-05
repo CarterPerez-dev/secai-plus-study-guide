@@ -2,7 +2,7 @@
 
 > ⚠️ These examples are provided strictly for educational purposes and SecAI+ exam preparation. Understanding how attacks work is required to defend against them.
 
-📺 [Watch the TikTok: Day 1](#) | ← [Back to Overview](./overview.md)
+📺 [Watch the TikTok: Day 1](https://www.tiktok.com/@certgames.com/video/7613739701656145183) | ← [Back to Overview](./overview.md)
 
 ---
 
