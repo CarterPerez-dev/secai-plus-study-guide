@@ -2,7 +2,7 @@
 
 **Exam relevance:** Domain 2.0 — Securing AI Systems | Objectives 2.2 (Model Control), 2.6 (Compensating Control)
 
-📺 [Watch the TikTok: Day 1](#) | ← [Back to Domain 2](../)
+📺 [Watch the TikTok: Day 1](https://www.tiktok.com/@certgames.com/video/7613739701656145183) | ← [Back to Domain 2](../)
 
 ---
 
