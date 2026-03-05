@@ -38,8 +38,8 @@ Each concept folder includes:
 | Concept | Overview | Examples | TikTok |
 |---|---|---|---|
 | AI Jailbreaking | [Read →](concepts/domain-2-securing-ai/ai-jailbreaking/overview.md) | [Examples →](concepts/domain-2-securing-ai/ai-jailbreaking/examples.md) | [Day 1](https://www.tiktok.com/@certgames.com/video/7613739701656145183) |
-| Prompt Firewalls | [Read →](concepts/domain-2-securing-ai/prompt-firewalls/overview.md) | — | [Day 1 — Coming Soon](#) |
-| Model Guardrails | [Read →](concepts/domain-2-securing-ai/model-guardrails/overview.md) | — | [Day 1 — Coming Soon](#) |
+| Prompt Firewalls | [Read →](concepts/domain-2-securing-ai/prompt-firewalls/overview.md) | — | [Day 1](https://www.tiktok.com/@certgames.com/video/7613739701656145183) |
+| Model Guardrails | [Read →](concepts/domain-2-securing-ai/model-guardrails/overview.md) | — | [Day 1](https://www.tiktok.com/@certgames.com/video/7613739701656145183) |
 
 ---
 
